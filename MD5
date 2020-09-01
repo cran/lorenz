@@ -1,0 +1,14 @@
+ee7d53368a41e33d9f1ca9d9107415fd *DESCRIPTION
+41aa2603cc452ff461396bd4677984ed *LICENSE
+ec6e3ea32dc60db8f5eb270f25b6bd28 *NAMESPACE
+af0e821f63d40f1863cae1ec3e4f067d *R/atkinsons.R
+6ea1f1123ed8b86b378a501db244a6f2 *R/lorenz_interp.R
+cf00d4a03f410396ef7181829afcbf9a *R/mcib.R
+5ede79f9f329aebda2681ba5b51d83e3 *R/mcib_helpers.R
+326203b91f5caefbb4ae02c3c65183d0 *R/special_lorenz_funcs.R
+fd959321825d75bce44d0ea784f4d803 *R/utils.R
+5241a19c7c1acf484e51493b1fbc925b *README.md
+57748b6374d259196600e3a5e4989178 *man/lorenz_interp.Rd
+ba17f3395d64f00c5d690237aaa8b05d *man/mcib.Rd
+6de382bbeb59fb2c28d012fc9ea150ea *tests/testthat.R
+df64e1604ee30bcba9390c0141465a6a *tests/testthat/test.R
